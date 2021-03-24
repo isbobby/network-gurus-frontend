@@ -1,2 +1,6 @@
 # network-gurus-frontend
-Contains the simple front end to display network Guru
+## A simple react application which displays the network contents
+
+Visit the website here (work in progress)
+
+http://isbobby.github.io/network-gurus-frontend
